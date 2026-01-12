@@ -1,3 +1,4 @@
+<img width="983" height="271" alt="Screenshot 2026-01-12 161131" src="https://github.com/user-attachments/assets/393b2a01-3f4b-4cf0-b02b-11a3190d06e6" />
 # 🇳🇵 AI Constitution of Nepal
 
 An AI-powered legal assistant designed to help users explore and understand the **Constitution of Nepal** using modern Natural Language Processing and Retrieval-Augmented Generation (RAG).
