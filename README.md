@@ -99,4 +99,4 @@ This system:
 ```bash
 pip install -r requirements.txt
 python ingest.py      # create constitution embeddings
-python app.py         # start legal assistant
+python RagSetup.py         # start legal assistant
