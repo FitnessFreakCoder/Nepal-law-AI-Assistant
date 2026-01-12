@@ -1,3 +1,4 @@
+<img width="1348" height="897" alt="Screenshot 2026-01-12 162134" src="https://github.com/user-attachments/assets/8142fc6d-5290-4d7a-89f2-4563ec73c9eb" />
 <img width="983" height="271" alt="Screenshot 2026-01-12 161131" src="https://github.com/user-attachments/assets/393b2a01-3f4b-4cf0-b02b-11a3190d06e6" />
 # 🇳🇵 AI Constitution of Nepal
 
