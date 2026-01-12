@@ -1,0 +1,43 @@
+# ===========================
+# LLMs & Embeddings
+# ===========================
+openai
+ollama
+
+# ===========================
+# Environment Variables
+# ===========================
+python-dotenv
+
+# ===========================
+# Vector Database
+# ===========================
+chromadb
+faiss-cpu
+
+# ===========================
+# PDF, Image & OCR Processing
+# ===========================
+pypdf
+pdf2image
+pillow
+pytesseract
+
+# ===========================
+# Text Processing
+# ===========================
+tiktoken
+sentence-transformers
+
+# ===========================
+# Web / API Layer
+# ===========================
+flask
+jinja2
+
+# ===========================
+# Utilities
+# ===========================
+numpy
+tqdm
+requests

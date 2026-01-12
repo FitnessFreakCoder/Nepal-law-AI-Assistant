@@ -1,0 +1,39 @@
+# =========================
+# 🔐 Secrets
+# =========================
+.env
+
+# =========================
+# 🧠 Vector Database & AI Cache
+# =========================
+vector_db/
+*.pkl
+*.pt
+*.npy
+*.npz
+
+# =========================
+# 📄 Generated Data
+# =========================
+Json_text/
+Output/
+__pycache__/
+
+# =========================
+# 📚 Source Documents (optional)
+# Keep PDF if you want, otherwise ignore
+# =========================
+# Constitution of Nepal.pdf
+
+# =========================
+# 🐍 Python Cache
+# =========================
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# =========================
+# 🧰 OS Files
+# =========================
+.DS_Store
+Thumbs.db
