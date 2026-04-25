@@ -1,0 +1,8 @@
+flask
+flask-cors
+mysql-connector-python
+bcrypt
+PyJWT
+python-dotenv
+google-genai
+chromadb
